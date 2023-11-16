@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+tr {
+  background-color: rgb(185, 251, 234);
+}
+th{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+table {
+  display: inline-block;
+}
